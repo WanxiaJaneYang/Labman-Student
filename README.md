@@ -4,4 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed URL
 https://delightful-river-0ac974110.3.azurestaticapps.net/
-Login using username a1111111 and password 123456
+
+Login using username a1111111 and password a1111111
+or username a1866893 and password a1866893
