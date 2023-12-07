@@ -16,7 +16,7 @@ export const AuthProvider=({children})=>{
 				setIsAuthenticated(true);
 			}
 		}catch(error){
-			message.error(error.message);
+			message.error("Login failed"+error.message);
 		}
 	};
 
